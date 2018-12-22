@@ -1,0 +1,1 @@
+The main method of the program is contained in class Main. It contains two Strings, which need to specify file paths to the two images which the user wants to use in creating a hybrid image. The first image specified will be used as the low-pass filtered image, the second as the high-pass filtered image. 
